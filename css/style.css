@@ -1,0 +1,20 @@
+h1{
+
+ color: coral;
+ box-shadow: 10px;
+    
+
+}
+input{
+
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    color: aliceblue;
+}
+button{
+    color: cadetblue;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    padding: 10px;
+}
